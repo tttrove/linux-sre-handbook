@@ -79,6 +79,6 @@ docker run --memory=512m --cpus=2 myapp
 
 ## 延伸阅读
 
-- [[01-systemd深度使用]] — systemd 集成 Cgroups
-- [[../09-容器与编排/01-Docker核心原理|Docker 核心原理]] — 容器隔离机制
-- [[../04-系统性能/02-内存性能分析|内存性能分析]] — OOM 排查
+- [01-systemd深度使用](01-systemd深度使用.md) — systemd 集成 Cgroups
+- [Docker 核心原理](../09-容器与编排/01-Docker核心原理.md) — 容器隔离机制
+- [内存性能分析](../04-系统性能/02-内存性能分析.md) — OOM 排查

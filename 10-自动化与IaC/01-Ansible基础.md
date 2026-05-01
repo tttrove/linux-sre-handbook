@@ -89,5 +89,5 @@ ansible_ssh_private_key_file=~/.ssh/id_ed25519
 
 ## 延伸阅读
 
-- [[02-Ansible Playbook实战]]
-- [[../07-进程与Service管理/01-systemd深度使用|systemd]]
+- [02-Ansible Playbook实战](02-Ansible%20Playbook实战.md)
+- [systemd](../07-进程与Service管理/01-systemd深度使用.md)

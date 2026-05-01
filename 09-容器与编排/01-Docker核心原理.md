@@ -82,6 +82,6 @@ docker image prune -a       # 仅清理镜像
 
 ## 延伸阅读
 
-- [[02-Dockerfile最佳实践]]
-- [[07-容器安全]]
-- [[../07-进程与Service管理/03-Cgroups资源控制|Cgroups]]
+- [02-Dockerfile最佳实践](02-Dockerfile最佳实践.md)
+- [07-容器安全](07-容器安全.md)
+- [Cgroups](../07-进程与Service管理/03-Cgroups资源控制.md)

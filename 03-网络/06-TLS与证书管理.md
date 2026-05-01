@@ -77,5 +77,5 @@ testssl.sh https://example.com
 
 ## 延伸阅读
 
-- [[03-HTTP与负载均衡]] — HTTPS 与负载均衡
-- [[04-网络排查工具链]] — 排查 SSL 问题
+- [03-HTTP与负载均衡](03-HTTP与负载均衡.md) — HTTPS 与负载均衡
+- [04-网络排查工具链](04-网络排查工具链.md) — 排查 SSL 问题

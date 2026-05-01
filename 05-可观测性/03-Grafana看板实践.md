@@ -72,5 +72,5 @@ Grafana 8+ 内置告警引擎：
 
 ## 延伸阅读
 
-- [[02-Prometheus生态]] — PromQL 语法
-- [[06-告警规则设计]] — 告警策略
+- [02-Prometheus生态](02-Prometheus生态.md) — PromQL 语法
+- [06-告警规则设计](06-告警规则设计.md) — 告警策略

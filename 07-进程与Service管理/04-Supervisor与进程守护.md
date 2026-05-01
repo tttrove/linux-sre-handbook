@@ -66,5 +66,5 @@ docker run --init myimage    # 自动注入 tini 作为 PID 1
 
 ## 延伸阅读
 
-- [[01-systemd深度使用]] — systemd 方案
-- [[05-Cron与定时任务]] — 定时任务管理
+- [01-systemd深度使用](01-systemd深度使用.md) — systemd 方案
+- [05-Cron与定时任务](05-Cron与定时任务.md) — 定时任务管理

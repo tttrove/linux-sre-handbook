@@ -77,5 +77,5 @@ docker run --rm -it <sha256_hash> sh
 
 ## 延伸阅读
 
-- [[01-Docker核心原理]]
-- [[07-容器安全]]
+- [01-Docker核心原理](01-Docker核心原理.md)
+- [07-容器安全](07-容器安全.md)
