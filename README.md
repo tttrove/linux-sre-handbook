@@ -1,6 +1,6 @@
 # Linux SRE 知识库 - 总索引
 
-> 本知识库面向 Linux SRE（Site Reliability Engineer），覆盖从基础原理到高阶实践的完整体系。使用 Obsidian 的 `[[双向链接]]` 构建网状知识结构。
+> 本知识库面向 Linux SRE（Site Reliability Engineer），覆盖从基础原理到高阶实践的完整体系。使用标准 Markdown 链接构建网状知识结构，同时兼容 Obsidian 双向链接与 GitHub 渲染。
 
 ---
 
