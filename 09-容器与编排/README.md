@@ -18,4 +18,4 @@
 
 - [03-Cgroups资源控制](03-Cgroups资源控制.md) — 容器资源隔离基础
 - [03-网络](03-网络/README.md) — 容器网络基础
-- [10-自动化与IaC](10-自动化与IaC/README.md) — 容器化 CI/CD
+- [10-自动化与IaC](../10-自动化与IaC/README.md) — 容器化 CI/CD
