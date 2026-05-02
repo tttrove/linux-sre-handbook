@@ -64,6 +64,6 @@ jobs:
 
 ## 延伸阅读
 
-- [03-Terraform入门](03-Terraform入门.md) — 基础设施 CI/CD
-- [05-GitOps实践](05-GitOps实践.md) — 声明式部署
-- [K8s 运维](../09-容器与编排/06-K8s运维实战.md)
+- [03-Terraform入门.md](03-Terraform入门.md) — 基础设施 CI/CD
+- [05-GitOps实践.md](05-GitOps实践.md) — 声明式部署
+- [../09-容器与编排/06-K8s运维实战.md](../09-容器与编排/06-K8s运维实战.md)

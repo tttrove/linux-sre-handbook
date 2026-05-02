@@ -21,9 +21,11 @@
 Thumbs.db
 desktop.ini
 
+# Obsidian Sync 冲突文件（如果同时用了官方同步）
+# conflict-files-obsidian-sync/
+
 # ===== 其他常见内容 =====
 *.tmp
 *.log
-
-# Obsidian Sync 冲突文件（如果同时用了官方同步）
-# conflict-files-obsidian-sync/
+*.py
+*.bat

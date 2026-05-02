@@ -2,11 +2,11 @@
 
 ## 本节导航
 
-- [01-Ansible基础](01-Ansible基础.md)
-- [02-Ansible Playbook实战](02-Ansible Playbook实战.md)
-- [03-Terraform入门](03-Terraform入门.md)
-- [04-CICD流水线设计](04-CICD流水线设计.md)
-- [05-GitOps实践](05-GitOps实践.md)
+- [01-Ansible基础.md](01-Ansible基础.md)
+- [02-Ansible Playbook实战.md](02-Ansible Playbook实战.md)
+- [03-Terraform入门.md](03-Terraform入门.md)
+- [04-CICD流水线设计.md](04-CICD流水线设计.md)
+- [05-GitOps实践.md](05-GitOps实践.md)
 
 ## 学习目标
 
@@ -14,5 +14,5 @@
 
 ## 相关板块
 
-- [02-Shell与脚本](../02-Shell与脚本/README.md) — 脚本自动化基础
-- [09-容器与编排](../09-容器与编排/README.md) — 容器化 CI/CD
+- [../02-Shell与脚本/README.md](../02-Shell与脚本/README.md) — 脚本自动化基础
+- [../09-容器与编排/README.md](../09-容器与编排/README.md) — 容器化 CI/CD
