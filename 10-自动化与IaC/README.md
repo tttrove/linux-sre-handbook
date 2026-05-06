@@ -1,0 +1,18 @@
+# 10-自动化与IaC
+
+## 本节导航
+
+- [01-Ansible基础.md](01-Ansible基础.md)
+- [02-Ansible Playbook实战.md](02-Ansible Playbook实战.md)
+- [03-Terraform入门.md](03-Terraform入门.md)
+- [04-CICD流水线设计.md](04-CICD流水线设计.md)
+- [05-GitOps实践.md](05-GitOps实践.md)
+
+## 学习目标
+
+掌握基础设施即代码 (IaC) 和自动化运维的核心工具链，能通过代码管理服务器配置、云资源和 CI/CD 流水线。
+
+## 相关板块
+
+- [../02-Shell与脚本/README.md](../02-Shell与脚本/README.md) — 脚本自动化基础
+- [../09-容器与编排/README.md](../09-容器与编排/README.md) — 容器化 CI/CD

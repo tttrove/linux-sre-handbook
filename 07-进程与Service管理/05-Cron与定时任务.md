@@ -98,5 +98,5 @@ systemctl list-timers
 
 ## 延伸阅读
 
-- [01-systemd深度使用](01-systemd深度使用.md) — systemd Timer
-- [04-Supervisor与进程守护](04-Supervisor与进程守护.md) — 长驻进程
+- [01-systemd深度使用.md](01-systemd深度使用.md) — systemd Timer
+- [04-Supervisor与进程守护.md](04-Supervisor与进程守护.md) — 长驻进程

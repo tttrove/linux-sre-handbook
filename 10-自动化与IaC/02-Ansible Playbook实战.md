@@ -128,5 +128,5 @@ roles/
 
 ## 延伸阅读
 
-- [01-Ansible基础](01-Ansible基础.md)
-- [03-Terraform入门](03-Terraform入门.md) — IaC 互补工具
+- [01-Ansible基础.md](01-Ansible基础.md)
+- [03-Terraform入门.md](03-Terraform入门.md) — IaC 互补工具

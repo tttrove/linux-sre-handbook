@@ -80,6 +80,6 @@ cat /etc/nsswitch.conf   # hosts: files dns — 解析顺序
 
 ## 延伸阅读
 
-- [01-TCPIP协议栈](01-TCPIP协议栈.md) — DNS 的传输层基础
-- [03-HTTP与负载均衡](03-HTTP与负载均衡.md) — DNS 负载均衡
-- [04-网络排查工具链](04-网络排查工具链.md) — 更多排查工具
+- [01-TCPIP协议栈.md](01-TCPIP协议栈.md) — DNS 的传输层基础
+- [03-HTTP与负载均衡.md](03-HTTP与负载均衡.md) — DNS 负载均衡
+- [04-网络排查工具链.md](04-网络排查工具链.md) — 更多排查工具

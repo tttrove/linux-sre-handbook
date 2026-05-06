@@ -103,6 +103,6 @@ find /home -name authorized_keys -exec cat {} \;
 
 ## 延伸阅读
 
-- [02-SELinux与AppArmor](02-SELinux与AppArmor.md) — 强制访问控制
-- [03-PAM认证机制](03-PAM认证机制.md) — 认证层加固
-- [防火墙](../03-网络/05-防火墙与iptables.md) — 网络层防御
+- [02-SELinux与AppArmor.md](02-SELinux与AppArmor.md) — 强制访问控制
+- [03-PAM认证机制.md](03-PAM认证机制.md) — 认证层加固
+- [../03-网络/05-防火墙与iptables.md](../03-网络/05-防火墙与iptables.md) — 网络层防御

@@ -105,5 +105,5 @@ terraform apply -lock=true
 
 ## 延伸阅读
 
-- [04-CICD流水线设计](04-CICD流水线设计.md) — Terraform 在 CI/CD 中
-- [05-GitOps实践](05-GitOps实践.md) — GitOps 理念
+- [04-CICD流水线设计.md](04-CICD流水线设计.md) — Terraform 在 CI/CD 中
+- [05-GitOps实践.md](05-GitOps实践.md) — GitOps 理念

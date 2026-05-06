@@ -1,0 +1,19 @@
+# 07-进程与Service管理
+
+## 本节导航
+
+- [01-systemd深度使用.md](01-systemd深度使用.md)
+- [02-进程调度与优先级.md](02-进程调度与优先级.md)
+- [03-Cgroups资源控制.md](03-Cgroups资源控制.md)
+- [04-Supervisor与进程守护.md](04-Supervisor与进程守护.md)
+- [05-Cron与定时任务.md](05-Cron与定时任务.md)
+
+## 学习目标
+
+掌握 Linux 下进程管理和服务编排的核心技能，理解 systemd 在现代 Linux 中的角色，能通过 Cgroups 做资源隔离和控制。
+
+## 相关板块
+
+- [../01-Linux基础/03-进程与线程.md](../01-Linux基础/03-进程与线程.md) — 进程原理
+- [../04-系统性能/README.md](../04-系统性能/README.md) — 进程资源消耗分析
+- [../09-容器与编排/README.md](../09-容器与编排/README.md) — Cgroups 是容器的基础
